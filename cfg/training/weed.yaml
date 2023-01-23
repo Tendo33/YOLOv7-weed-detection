@@ -1,0 +1,8 @@
+train: C:/Users/sjf19/PycharmProjects/weed_YOLO7/weed_datasets/images/train
+val: C:/Users/sjf19/PycharmProjects/weed_YOLO7/weed_datasets/images/val
+
+# whether it is coco dataset, only coco dataset should be set to True.
+is_coco: False
+
+nc: 2
+names: ['crop','weed']
